@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Azure/terraform-provider-jwt/jwt"
+	"github.com/nadworny/terraform-provider-jwt/jwt"
 	"github.com/hashicorp/terraform/plugin"
 )
 
